@@ -1,0 +1,4 @@
+jmeter -n -t "Thread Group.jmx" -l summery_report.csv -e -o "HTML Reports"
+
+
+jmeter -n -t E:\Trip Test Jmeter\hellodjango practice\New Folder\Thread Group.jmx -l E:\Trip Test Jmeter\hellodjango practice\summery_report.csv -e -o E:\Trip Test Jmeter\hellodjango practice\HTML Reports
