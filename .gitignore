@@ -2,3 +2,4 @@
 *.exe
 *.sqlite3
 *.pyc
+*.csv
