@@ -5,3 +5,14 @@ from django.http import HttpResponse
 
 def app (request):
     return HttpResponse ('hello')
+
+
+def app2 (request):
+    return HttpResponse ('hello')
+
+
+def app3 (request):
+    return HttpResponse ('hello')
+
+def app4 (request):
+    return HttpResponse ('hello')
